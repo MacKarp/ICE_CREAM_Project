@@ -1,0 +1,3 @@
+[submodule "LodovkaApp"]
+	path = LodovkaApp
+	url = https://github.com/Tuchtuch/LodovkaApp.git
